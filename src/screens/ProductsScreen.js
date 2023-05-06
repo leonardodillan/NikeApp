@@ -18,7 +18,7 @@ const ProductsScreen = () => {
 };
 
 const styles = StyleSheet.create({
-    itemContainer: {
+    itemContainer: { 
       width: '50%',
       padding: 1,
     },
